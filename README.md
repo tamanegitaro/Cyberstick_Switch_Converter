@@ -18,10 +18,15 @@
 
 ## This project is Cyberstick to Nintendo Switch Converter based on GP2040-CE.
 
+![image](https://github.com/user-attachments/assets/b12e8937-2cad-4455-96f5-54f4b3024907)
+![image](https://github.com/user-attachments/assets/8e31d27a-24ab-4f3e-911d-143b783dc053)
+
 ## How to use
 - Cyberstick to USB Converter.
 - Connect USB Converter to Nintendo Switch.
 - To change game mode, press SELECT + E1 or E2.
+
+![スクリーンショット 2024-12-30 224527](https://github.com/user-attachments/assets/fdd73b1d-bf3d-41e8-a65a-322000bd66e7)
 
 Hotkeys:
 - Hold START + C + D 5 seconds for Firmware Upgrade mode - Bootsel (Or hold Boot button on RP2040-Zero and connect it to your PC)
@@ -31,7 +36,9 @@ Hotkeys:
 ## Building hardware
 Please refer to 8BitDo Arcade Stick USB Converter for building your USB converter
 https://github.com/tamanegitaro/8BitDoArcadeStickUSBConverter
+
 Make sure to select Nintendo Switch for target console
+![image](https://github.com/user-attachments/assets/b8aa0b8e-a1cc-4b83-8aa0-fe8380c5ee04)
 
 
 
