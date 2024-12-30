@@ -5,6 +5,43 @@
 </p>
 
 <p align="center">
+  Multi-Platform Gamepad Firmware for RP2040 customized by tamanegi_taro
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/OpenStickCommunity/GP2040-CE" />
+  <img src="https://img.shields.io/github/actions/workflow/status/OpenStickCommunity/GP2040-CE/cmake.yml" />
+  <br />
+  <img src="https://img.shields.io/badge/inputlag.science-0.86%20ms-blue" />
+  <img src="https://img.shields.io/badge/MiSTer%20latency-0.765%20ms-blue" />
+</p>
+
+## This project is Cyberstick to Nintendo Switch Converter based on GP2040-CE.
+
+## How to use
+- Cyberstick to USB Converter.
+- Connect USB Converter to Nintendo Switch.
+- To change game mode, press SELECT + E1 or E2.
+
+Hotkeys:
+- Hold START + C + D 5 seconds for Firmware Upgrade mode - Bootsel (Or hold Boot button on RP2040-Zero and connect it to your PC)
+- Hold SELECT + C + D 5 seconds for Webconfig
+
+
+## Building hardware
+Please refer to 8BitDo Arcade Stick USB Converter for building your USB converter
+https://github.com/tamanegitaro/8BitDoArcadeStickUSBConverter
+Make sure to select Nintendo Switch for target console
+
+
+
+## *******************************************************************
+## *******************************************************************
+## *******************************************************************
+## *******************************************************************
+## *******************************************************************
+
+<p align="center">
   Multi-Platform Gamepad Firmware for RP2040
 </p>
 
